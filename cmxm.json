@@ -1,0 +1,7 @@
+{
+  "version": "1.2.12",
+  "download_url": "https://github.com/StenoChey/POPIA-updates/releases/download/v1.2.12/cmxm-cookie-consent-v1.2.12.zip",
+  "homepage": "https://github.com/StenoChey/POPIA",
+  "description": "CMXM Cookie Consent \u2014 POPIA-first consent and tracking management for WordPress. By Steno.",
+  "changelog": "<h4>1.2.12 \u2014 Security hardening</h4><ul><li>Restrict update manifests to the official Steno POPIA-updates release source.</li><li>Reject package links outside the approved GitHub release path.</li><li>Maintain existing POPIA consent functionality and settings.</li></ul>"
+}
