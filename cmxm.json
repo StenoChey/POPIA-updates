@@ -1,7 +1,7 @@
 {
-  "version": "1.2.14",
-  "download_url": "https://github.com/StenoChey/POPIA-updates/releases/download/v1.2.14/cmxm-cookie-consent-v1.2.14.zip",
+  "version": "1.2.15",
+  "download_url": "https://github.com/StenoChey/POPIA-updates/releases/download/v1.2.15/cmxm-cookie-consent-v1.2.15.zip",
   "homepage": "https://github.com/StenoChey/POPIA",
-  "description": "CMXM Cookie Consent \u2014 POPIA-first consent and tracking management for WordPress. By Steno.",
-  "changelog": "<h4>1.2.14 \u2014 Standalone GA4 Consent Mode v2</h4><ul><li>Add a Strict Gate / Google Consent Mode v2 (advanced) option for standalone GA4 Measurement ID services.</li><li>Default existing GA4 services to strict consent gating; opt-in required for v2.</li><li>Send Google consent defaults before eligible GA4 tags load, with preference updates.</li><li>Preserve GTM consent modes, Cookie Inventory, existing data and automatic GitHub updates.</li></ul>"
+  "description": "CMXM Cookie Consent — POPIA-first consent and tracking management for WordPress. By Steno.",
+  "changelog": "<h4>1.2.15 — Separate Privacy and Cookie Policy links</h4><ul><li>Add an optional Cookie Policy URL under General settings, with automatic fallback to the existing Privacy Policy URL.</li><li>Show separate links for separate policies, a combined link when URLs are the same, and no broken links when URLs are empty.</li><li>Apply policy links consistently to the banner and cookie preferences, with developer guidance in General.</li><li>Include dedicated Cookie Policy text in the POPIA readiness audit when configured.</li><li>Preserve existing consent settings, GA4/GTM Consent Mode options, cookie inventory, consent logs and automatic updates.</li></ul>"
 }
